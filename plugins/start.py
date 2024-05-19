@@ -92,8 +92,8 @@ async def start_command(client: Client, message: Message):
                     InlineKeyboardButton("🔒 Close", callback_data = "close")
                 ],
                 [
-                        InlineKeyboardButton("📢Support bot", url="@Evmovie_bot"),
-                        InlineKeyboardButton("📢Updates Channel", url="https://t.me/+KDhJoZa2lMY4ZTA9")
+                    InlineKeyboardButton("📢Support bot", url="@Evmovie_bot"),
+                    InlineKeyboardButton("📢Updates Channel", url="https://t.me/+KDhJoZa2lMY4ZTA9")
                 ]
             ]
         )
